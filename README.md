@@ -52,6 +52,8 @@ class Calculator:
 – Процесс генерации и публикации документации.
 ![image](https://github.com/user-attachments/assets/f39e7f83-7f88-455b-8bbf-6f929d0074f8)
 ![image](https://github.com/user-attachments/assets/6a21ac04-4e42-475b-99f1-121c3d4f347b)
+![image](https://github.com/user-attachments/assets/b1793a48-2b1f-40cf-adc6-0c9b4f99df89)
+
 
 ```
 <!DOCTYPE html>
@@ -65,7 +67,6 @@ class Calculator:
     <h1>Документация</h1>
     <ul>
         <li><a href="main.html">main.html</a></li>
-        <li><a href="__init__.html">__init__.html</a></li>
         <li><a href="addition.html">addition.html</a></li>
         <li><a href="division.html">division.html</a></li>
         <li><a href="multiplication.html">multiplication.html</a></li>
@@ -92,3 +93,13 @@ class Calculator:
 
 Часть 2: Документирование проекта на Java с использованием Javadoc и Maven
 
+
+
+
+
+
+
+
+
+
+https://danyakr.github.io/calcproject/
