@@ -152,12 +152,12 @@ Maven Javadoc Plugin (автоматизированный процесс):
 
 ## Ссылки на проекты.
 
-[Pyrhon](https://danyakr.github.io/calcproject/)
-[Java javadoc](https://danyakr.github.io/javadocproject/)
-[Java maven](https://danyakr.github.io/javamavenproject/)
+[Pyrhon](https://github.com/danyakr/calcproject)  
+[Java javadoc](https://github.com/danyakr/javadocproject)  
+[Java maven](https://github.com/danyakr/javamavenproject)  
 
 ## Ссылки на GitHub Pages.
 
-[Документация Python](https://github.com/danyakr/calcproject)
-[Документация Java javadoc](https://github.com/danyakr/javadocproject)
-[Документация Java maven](https://github.com/danyakr/javamavenproject)
+[Документация Python](https://danyakr.github.io/calcproject/)  
+[Документация Java javadoc](https://danyakr.github.io/javadocproject/)  
+[Документация Java maven](https://danyakr.github.io/javamavenproject/)  
