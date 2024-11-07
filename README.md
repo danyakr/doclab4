@@ -120,7 +120,8 @@ public class Main {
 
 
 
-Генерация документации с помощью Maven.
+Генерация документации с помощью Maven.  
+
 ![image](https://github.com/user-attachments/assets/67f035ed-28dd-4837-a97a-85df035e7344)
 ![image](https://github.com/user-attachments/assets/56bc0963-7e73-4545-ba18-cf9b76858bb1)
 
