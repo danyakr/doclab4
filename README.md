@@ -51,8 +51,7 @@ class Calculator:
 
 – Процесс генерации и публикации документации.
 ![image](https://github.com/user-attachments/assets/f39e7f83-7f88-455b-8bbf-6f929d0074f8)
-![image](https://github.com/user-attachments/assets/6a21ac04-4e42-475b-99f1-121c3d4f347b)
-![image](https://github.com/user-attachments/assets/b1793a48-2b1f-40cf-adc6-0c9b4f99df89)
+
 
 
 ```
@@ -77,21 +76,53 @@ class Calculator:
 
 ```
 
-
-
-– Возникшие проблемы и способы их решения.
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/6441c6cc-5673-44bb-bdf3-2d431ac43573)
+![image](https://github.com/user-attachments/assets/2221da9f-b917-432d-a6fd-9c7d3182432f)
 
 
 
 
 Часть 2: Документирование проекта на Java с использованием Javadoc и Maven
+
+– Описание выбранного проекта.
+Этот проект представляет собой простой калькулятор, реализованный на языке Java. Он поддерживает основные арифметические операции: сложение, вычитание, умножение и деление. Все операции реализованы в одном классе Calculator, что делает структуру проекта простой и компактной. Пользователь может использовать калькулятор для выполнения базовых математических вычислений.
+
+Примеры добавленных Javadoc-комментариев.
+
+```
+/**
+ * Класс Main для демонстрации работы калькулятора.
+ * 
+ * Этот класс служит точкой входа в программу и демонстрирует использование
+ * класса {@link Calculator} для выполнения основных арифметических операций.
+ * В методе {@link #main(String[])} выполняются примеры сложения, вычитания, 
+ * умножения и деления с выводом результатов на консоль.
+ */
+public class Main {
+```
+```
+/**
+     * Выполняет сложение двух чисел.
+     *
+     * @param a Первое число.
+     * @param b Второе число.
+     * @return Сумма a и b.
+     */
+    public double add(double a, double b) {
+        return a + b;
+    }
+```
+
+Генерация документации с помощью Javadoc.
+
+![image](https://github.com/user-attachments/assets/867042bf-f000-4866-b34f-02e26cb0bb56)
+![image](https://github.com/user-attachments/assets/7423284a-353b-44ee-8736-bc8223a57b91)
+
+
+
+Генерация документации с помощью Maven.
+![image](https://github.com/user-attachments/assets/67f035ed-28dd-4837-a97a-85df035e7344)
+![image](https://github.com/user-attachments/assets/56bc0963-7e73-4545-ba18-cf9b76858bb1)
 
 
 
@@ -103,3 +134,11 @@ class Calculator:
 
 
 https://danyakr.github.io/calcproject/
+https://danyakr.github.io/javadocproject/
+https://danyakr.github.io/javamavenproject/
+
+
+
+https://github.com/danyakr/calcproject
+https://github.com/danyakr/javadocproject
+https://github.com/danyakr/javamavenproject
